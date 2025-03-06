@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../expo-login-app/expo-login-app"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
